@@ -1,2 +1,2 @@
-# iJV803_M_album_BG8_GEM
+# _i_JV803: a genome-scale metabolic model for *Methylomicrobium album BG8*
  
