@@ -6,7 +6,6 @@ These are the libraries and packages required to work with the GEM in Google Col
 
 ```{r}
 system(command = "sudo apt-get update -y")
-system(command = "sudo apt-get install -y glpk-utils")
 system(command = "sudo apt-get install -y libglpk-dev")
 install.packages("glpkAPI")
 install.packages("sybil")
